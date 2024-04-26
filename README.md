@@ -1,19 +1,19 @@
-<h1>
-  <p align="center">
-    <a href="#">
-      <img src="https://avatars.githubusercontent.com/u/96694367?v=4" width=72 height=72 />
-    </a>
+<h1 align="center">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 72px; height: 72px; border-radius: 50%; overflow: hidden;">
+      <img src="https://avatars.githubusercontent.com/u/96694367?v=4" width="100%" height="100%" style="object-fit: cover;">
+    </div>
     <br>
     Veyg
-  </p>
-  <p align="center">
+  </div>
+  <div align="center">
     <a href="#">
       <img src="https://dcbadge.vercel.app/api/shield/339505350946455553?style=for-the-badge&theme=discord-inverted" height=24 />
     </a>
     <a href="#">
       <img src="https://komarev.com/ghpvc/?username=Veyg&style=for-the-badge" height=24 />
     </a>
-  </p>
+  </div>
 </h1>
 
 <h2>
