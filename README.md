@@ -22,8 +22,6 @@
 
 <p align="center">👨‍💻 Software engineering student</p>
 
-----
-
 <h2>
   <p align="center">Stats</p>
 </h2>
