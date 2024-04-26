@@ -20,7 +20,7 @@
   <p align="center">About me</p>
 </h2>
 
-text
+<p align="center">👨‍💻 Software engineering student</p>
 
 ----
 
